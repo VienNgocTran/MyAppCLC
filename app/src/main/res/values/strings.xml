@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyAppCLC</string>
+    <string name="title">Login App</string>
+    <string name="user">Enter user name</string>
+    <string name="pass">Enter user password</string>
+    <string name="login">Login</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_main_app">MainActivityApp</string>
+    <string name="nam"><b>Nam</b></string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
